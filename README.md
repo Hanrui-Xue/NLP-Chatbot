@@ -3,7 +3,8 @@ A chatbot made using Natural Language Processing. Able to converse with you in t
 
 Able to hold a conversation through providing a simulation of booking a hotel online using uk.hotels.com.
 
-##Example Questions ❔
+## Example Questions ❔
+
 "Book a hotel"
 "What is your name?"
 "How are you?"
